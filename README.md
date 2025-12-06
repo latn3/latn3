@@ -2,8 +2,6 @@
 
 # 안녕하세요! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=개발자+latn3입니다;풀스택+개발자;새로운+기술을+탐구합니다" alt="Typing SVG" />
-
 </div>
 
 ---
