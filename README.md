@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
